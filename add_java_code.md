@@ -62,3 +62,5 @@ Let's add this view to our `MainActivity.java`
 Click the Run ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/74540ff4e857014c.png)button, you should see following in your target device.
 
 ![Final output](images/final_output.png)
+
+In the [next](debugging_native_code.md) chapter learn about how to debug native code!
