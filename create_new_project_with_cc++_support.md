@@ -15,13 +15,11 @@
 
 You should see following directory structure.
 
-![Directory structure](images/directory_structure_4.png)
-
+<img src="images/directory_structure_4.png" width="350" height="500" />
 
 4.  Click Run, you will see the following on your target device or Emulator:
 
-![Nexus 5 screen](images/create_project_success_5.png)
-
-
-
+<img src="images/create_project_success_5.png" width="250" height="500" />
+### Review the project 
+Go to [next](review_project.md) chapter for reviewing what we did so far.
 
