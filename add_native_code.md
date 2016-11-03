@@ -437,10 +437,11 @@ Add following code above JNI methods in `glesjni.cpp`
 ```c++
 
 extern "C" {
-JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_init(JNIEnv* env, jobject obj);
-JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_resize(JNIEnv* env, jobject obj, jint width, jint height);
-JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_step(JNIEnv* env, jobject obj);
+JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_init(JNIEnv* env, jclass type);
+JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_resize(JNIEnv* env, jclass type, jint width, jint height);
+JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_step(JNIEnv* env, jclass type);
 };
+
 
 
 ```
