@@ -10,4 +10,5 @@
 * [Add Java code](add_java_code.md)
 * [Debugging Native Code](debugging_native_code.md)
 * [ExoPlayer Integration](exoplayer_integration.md)
+* [Build VP9 Extension Codec](build_vp9_extension_codec.md)
 

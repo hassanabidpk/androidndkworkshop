@@ -1,8 +1,9 @@
 # ExoPlayer Integration
 
-This tutorial will let you understand basic ExoPlayer integration and also you learn about adding one codec `vp9` extension to it. 
+This tutorial will let you understand basic ExoPlayer integration and also you learn about adding one codec extension `vp9` to it. 
 
 I have created a git repository for the startup code.
+
 ###Getting the code
 
 The source code for the sample app can be found on GitHub project. If you haven’t already done so, clone the project into a local directory:
