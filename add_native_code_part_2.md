@@ -244,5 +244,5 @@ Java_com_hassanabid_gdgfestgles3_GLESJNILib_step(JNIEnv *env, jclass type) {
 
 ```
 
-5. Sync ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/a0e53a92d95d4098.png), Build ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/48d2cace55b491ec.png), there should be no `errors` from Android Studio. Let's move to the next chapter where we will add code on Java side! 
+5. Sync ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/a0e53a92d95d4098.png), Build ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/48d2cace55b491ec.png), there should be no `errors` from Android Studio. Let's move to the [next](add_java_code.md) chapter where we will add code on Java side! 
 

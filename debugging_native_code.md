@@ -9,3 +9,5 @@ You can add break points to the native code
 5. Click the "F8" key to step over, and menu "Run" > "Resume Program" to continue the execution.
 
 ![Debug native code](images/debug_native_code_9.png)
+
+We are done with first main part of the tutorial. Take 5 minutes break and then move on to [ExoPlayer](exoplayer_integration.md) part.

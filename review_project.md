@@ -72,5 +72,5 @@ target_link_libraries( # Specifies the target library.
 
 ```
 
-Continue to next chapter for adding native code (openGL). 
+Continue to [next](add_native_code.md) chapter for adding native code (OpenGL). 
 

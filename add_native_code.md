@@ -446,5 +446,5 @@ JNIEXPORT void JNICALL Java_com_hassanabid_gdgfestgles3_GLESJNILib_step(JNIEnv* 
 
 ```
 
-Sync ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/a0e53a92d95d4098.png), Build ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/48d2cace55b491ec.png), there should be some `errors` from Android Studio. Let's fix them in next chapter.
+Sync ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/a0e53a92d95d4098.png), Build ![](https://codelabs.developers.google.com/codelabs/android-studio-jni/img/48d2cace55b491ec.png), there should be some `errors` from Android Studio. Let's fix them in [next](add_native_code_part_2.md) chapter.
 
