@@ -7,7 +7,7 @@ This tutorial will let you understand basic ExoPlayer integration and also you l
 
 Create a new Android project.
 
-Add folllowing in app's `build.gradle` file.
+Add following in app's `build.gradle` file.
 
 
 ```bash
