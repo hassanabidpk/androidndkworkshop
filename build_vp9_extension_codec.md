@@ -52,12 +52,24 @@ Build JNI native libraries
 ${NDK_PATH}/ndk-build APP_ABI=armeabi-v7a -j4
 ```
 
+
 You will see a new folder called `libs` appeared with `.so` files.
 
 Build project with Build Variant `withExtensionDebug` as shown in the picture below.
 
+![Build Varian](images/build_variant_11.png)
 
 
-### Integeration with ExoPlayer
+Run the project.  You can verify that `.so` native libraries are added in ExoPlayer apk by `analyzing APK`.
+
+
 
 ### Test
+
+Play a content in `MISC -> VP9`.  In the logs you should see 
+
+```bash
+Loaded LibvpxVideoRenderer.
+```
+Which confirms that VP9 codec is used!
+
