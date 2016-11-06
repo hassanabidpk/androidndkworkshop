@@ -63,4 +63,6 @@ Click the Run ![](https://codelabs.developers.google.com/codelabs/android-studio
 
 ![Final output](images/final_output.png)
 
+If you got into some trouble, you can see the finished code [here](https://github.com/hassanabidpk/GDGFestgles3)
+
 In the [next](debugging_native_code.md) chapter learn about how to debug native code!
